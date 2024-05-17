@@ -9,14 +9,14 @@
 <h3 align="center">A passionate frontend and backend developer from Sri lanka</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ThilinaMadushanka91&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 ##
 <div>
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1000">
 <br><br>
 </div>
+ 
+[![](https://visitcount.itsvg.in/api?id=ThilinaMadushanka91&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lella#7100) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/thilina.lelwala) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thilina-madushanka-732743170/) 
@@ -94,22 +94,15 @@
 <img height="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png">
 
 ---
-# ✍️ My Stats
-<div class="container">
-  <div class="row">
-    <div class="col-md-6" align="left">
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=ThilinaMadushanka91&theme=dark" alt="GitHub Streak">
-      </a>
-      <img src="https://github-readme-stats.vercel.app/api?username=ThilinaMadushanka91&show_icons=true&theme=transparent" alt="Thilina's GitHub Stats">
-    </div>
-    <div class="" align="center">
-      <a href="https://github.com/saifurrahman1193">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThilinaMadushanka91&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true" alt="Thilina's Language Stats">
-      </a>
-    </div>
+# :zap: My Stats
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=ThilinaMadushanka91&theme=dark)](https://git.io/streak-stats) ![Thilina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThilinaMadushanka91&show_icons=true&theme=transparent)
+
+  <div  align="center">
+    
+  [![Thilina's Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=ThilinaMadushanka91&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+    
   </div>
-</div>
 
 ---
 # ✍️ Random Dev Quote
