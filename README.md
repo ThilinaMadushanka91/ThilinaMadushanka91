@@ -11,6 +11,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ThilinaMadushanka91&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
 ##
 <div>
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1000">
@@ -93,9 +94,30 @@
 <img height="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png">
 
 ---
+# ✍️ My Stats
+<div class="container">
+  <div class="row">
+    <div class="col-md-6" align="left">
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=ThilinaMadushanka91&theme=dark" alt="GitHub Streak">
+      </a>
+      <img src="https://github-readme-stats.vercel.app/api?username=ThilinaMadushanka91&show_icons=true&theme=transparent" alt="Thilina's GitHub Stats">
+    </div>
+    <div class="" align="center">
+      <a href="https://github.com/saifurrahman1193">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThilinaMadushanka91&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true" alt="Thilina's Language Stats">
+      </a>
+    </div>
+  </div>
+</div>
+
+---
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+![Visitor Count](https://profile-counter.glitch.me/{ThilinaMadushanka91}/count.svg)
+##
 ---
 
   ## 💰 You can help me by Donating
