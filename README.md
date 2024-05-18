@@ -100,7 +100,7 @@
 
   <div  align="center">
     
-  [![Thilina's Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=ThilinaMadushanka91&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+  [![Thilina's Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=ThilinaMadushanka91&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)]
     
   </div>
 
