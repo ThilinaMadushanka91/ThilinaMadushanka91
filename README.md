@@ -96,11 +96,11 @@
 ---
 # :zap: My Stats
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=ThilinaMadushanka91&theme=dark)](https://git.io/streak-stats) ![Thilina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThilinaMadushanka91&show_icons=true&theme=transparent)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=ThilinaMadushanka91&theme=dark) ![Thilina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThilinaMadushanka91&show_icons=true&theme=transparent)
 
   <div  align="center">
     
-  [![Thilina's Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=ThilinaMadushanka91&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)]
+  ![Thilina's Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=ThilinaMadushanka91&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)
     
   </div>
 
